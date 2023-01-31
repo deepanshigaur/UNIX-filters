@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
         } else {
             putchar(nextChar);
         }
-    	
+    }	
         // TODO: if nextChar is a tab, write n blanks
         //      Otherwise, write the character to standard output
         //      You can check for a tab using the C literal '\t'
